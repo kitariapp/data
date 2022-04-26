@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Spy x Family",
+        "image": "https://github.com/kitariapp/data/raw/main/banner/01.png",
+        "id": "50265"
+    },
+    {
+        "title": "Kaguya Sama Wa Kakurasetai",
+        "image": "https://github.com/kitariapp/data/raw/main/banner/02.png",
+        "id": "43608"
+    },
+    {
+        "title": "One Piece",
+        "image": "https://github.com/kitariapp/data/raw/main/banner/03.png",
+        "id": "21"
+    },
+    {
+        "title": "Kimetsu no Yaiba: Yuukaku-hen",
+        "image": "https://github.com/kitariapp/data/raw/main/banner/04.png",
+        "id": "47778"
+    },
+    {
+        "title": "Shingeki no Kyojin: The Final Season Part 2",
+        "image": "https://github.com/kitariapp/data/raw/main/banner/05.png",
+        "id": "48583"
+    },
+    {
+        "title": "Komi-san wa, Comyushou desu.",
+        "image": "https://github.com/kitariapp/data/raw/main/banner/06.png",
+        "id": "48926"
+    }
+    
+]
