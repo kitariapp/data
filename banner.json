@@ -1,13 +1,14 @@
 [
     {
+        "title": "Kaguya Sama Wa Kakurasetai",
+        "image": "https://github.com/kitariapp/data/raw/main/banner/02.png",
+        "videoUrl": "https://raw.githubusercontent.com/kitariapp/data/main/videos/kaguya-sama-final.mp4"
+        "id": "43608"
+    },
+    {
         "title": "Spy x Family",
         "image": "https://github.com/kitariapp/data/raw/main/banner/01.png",
         "id": "50265"
-    },
-    {
-        "title": "Kaguya Sama Wa Kakurasetai",
-        "image": "https://github.com/kitariapp/data/raw/main/banner/02.png",
-        "id": "43608"
     },
     {
         "title": "One Piece",
